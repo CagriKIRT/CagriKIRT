@@ -18,9 +18,9 @@
 
 - 📱⌨️I’m working as a mobile and backend developer.
 
-- 🖥️Currently working on manufacturing execution system(MES), rnterprise resource planning(ERP) and business process management(BPM) systems.
+- 🖥️Currently working on manufacturing execution system(MES), enterprise resource planning(ERP) and business process management(BPM) systems.
 
-- 😇I love working on automation and new innovative producs.
+- 😇I love working on automation and new innovative products.
 
 - 🍺 Going out and socialize what i do in my free time.
 
